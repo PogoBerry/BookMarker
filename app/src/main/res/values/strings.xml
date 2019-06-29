@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookMarkerV4</string>
+    <string name="book_title">Title</string>
+    <string name="book_author">Author</string>
+    <string name="book_pages">Pages</string>
+    <string name="book_library">My Library</string>
+    <string name="book_quotes">Quotes/Thoughts...</string>
+    <string name="book_entries">Reading Entries </string>
+    <string name="add_book">Add Book</string>
+    <string name="sort_by">Sort By</string>
+    <string name = "search_by"> Search </string>
+    <string name = "last_entry" >Last Entry: %1$s, %2$d Pages </string>
+    <string name = "last_entryEmpty" >Last Entry: </string>
+    <string name = "appbar_scrolling_view_behavior" translatable="false" >
+        android.support.design.widget.AppBarLayout.ScrollingViewBehavior </string>
+    <string name = "book_done"> Done </string>
+    <string name = "book_add"> Add </string>
+    <string name = "edit_book"> Edit </string>
+
+
+
+
+
+</resources>

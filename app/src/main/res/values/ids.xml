@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type = "id" name = "text1"/>
+    <item type = "id" name = "text2"/>
+    <item type = "id" name = "text3"/>
+    <item type = "id" name = "text4"/>
+    <item type = "id" name = "text5"/>
+    <item type = "id" name = "progressBar"/>
+    <item type = "id" name = "ratingsBar"/>
+    <item type = "id" name = "tableRow"/>
+    <item type = "id" name = "tableRow2"/>
+    <item type = "id" name = "tableRow3"/>
+    <item type = "id" name = "tableRow4"/>
+    <item type = "id" name = "tableLayout2"/>
+    <item type = "id" name = "toolbar"/>
+    <item type = "id" name = "button2"/>
+    <item type = "id" name = "button3"/>
+    <item type = "id" name = "bookTitle"/>
+    <item type = "id" name = "bookAuthor"/>
+    <item type = "id" name = "bookPages"/>
+    <item type = "id" name = "lastEntry" />
+    <item type = "id" name = "layout1"/>
+    <item type = "id" name = "layout2"/>
+    <item type = "id" name = "layout3"/>
+    <item type = "id" name = "layout4"/>
+    <item type = "id" name = "buttonEditBook"/>
+    <item type = "id" name = "buttonDeleteBook"/>
+    <item type = "id" name = "buttonViewBook"/>
+    <item type = "id" name = "listViewBooks"/>
+    <item type = "id" name = "editTitle"/>
+    <item type = "id" name = "editAuthor"/>
+    <item type = "id" name = "editPages"/>
+    <item type = "id" name = "entries"/>
+    <item type = "id" name = "entries2"/>
+    <item type = "id" name = "quotes"/>
+    <item type = "id" name = "viewTitle"/>
+    <item type = "id" name = "viewAuthor"/>
+    <item type = "id" name = "viewPages"/>
+    <item type = "id" name = "goBack"/>
+    <item type = "id" name = "entryAdd"/>
+    <item type = "id" name = "entryDate" />
+    <item type = "id" name = "entryPages" />
+    <item type = "id" name = "buttonAddEntry" />
+
+</resources>
